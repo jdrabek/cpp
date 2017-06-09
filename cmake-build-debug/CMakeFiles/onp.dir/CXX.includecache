@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jadrab/CLionProjects/onp/Token.cpp
+cstring
+-
+iostream
+-
+Token.h
+C:/Users/jadrab/CLionProjects/onp/Token.h
+
+C:/Users/jadrab/CLionProjects/onp/Token.h
+
+C:/Users/jadrab/CLionProjects/onp/main.cpp
+iostream
+-
+stack
+-
+cstring
+-
+token.h
+C:/Users/jadrab/CLionProjects/onp/token.h
+
+C:/Users/jadrab/CLionProjects/onp/token.h
+

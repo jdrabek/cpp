@@ -1,0 +1,3 @@
+C:/Users/jadrab/CLionProjects/onp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jadrab/CLionProjects/onp/cmake-build-debug/CMakeFiles/onp.dir
+C:/Users/jadrab/CLionProjects/onp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
